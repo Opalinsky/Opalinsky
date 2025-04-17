@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip Opalinski</h1>
-<h3 align="center">B.Eng. Automation and Robotics | Computational Engineering Student | Data Scientist Intern @ICM UW</h3>
+<h3 align="center">Engineering student who fell in love with data. Now building, learning, and exploring every day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
